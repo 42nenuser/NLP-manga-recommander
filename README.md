@@ -1,5 +1,7 @@
 # 📚 Manga Recommendation System
 
+![Alt text](screen.png) 
+
 A **terminal-based** manga recommendation system using **LangChain, Hugging Face embeddings, and ChromaDB**. This system performs **semantic search** to recommend manga based on descriptions.
 
 ## 🚀 Features
