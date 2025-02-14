@@ -18,6 +18,7 @@ docker build -t manga-recommender .
 ```
 
 ### **2️⃣ Run the Container**
+!The Docker takes a bit of time to load because the dataset is too large
 ```sh
 docker run -it manga-recommender
 ```
